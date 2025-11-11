@@ -63,12 +63,14 @@ Me chamo Cleiton Mizael, tenho 19 anos e sou natural do Rio Grande do Norte. Atu
 
 <p align="left">
   <img 
-    alt="GitHub Stats" 
+    alt="GitHub Stats"
+    width="280"
     height="180" 
     src="https://github-readme-stats.vercel.app/api?username=cleitonmzl&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    alt="Top Langs" 
+    alt="Top Langs"
+    width="300"
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonmzl&layout=compact&theme=dark&locale=pt-br&langs_count=8" 
   />
