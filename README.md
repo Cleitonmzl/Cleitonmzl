@@ -48,9 +48,6 @@ Me chamo Cleiton Mizael, tenho 19 anos e sou natural do Rio Grande do Norte. Atu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-/>
-<br/>
-<br/>
 <img
     align="left" 
     alt="C++" 
@@ -59,6 +56,9 @@ Me chamo Cleiton Mizael, tenho 19 anos e sou natural do Rio Grande do Norte. Atu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
+
+---
+
 ### 📊 Estatísticas
 
 <p>
