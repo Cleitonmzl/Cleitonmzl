@@ -26,14 +26,18 @@ Me chamo Cleiton Mizael, tenho 19 anos e sou natural do Rio Grande do Norte. Atu
 
 ---
 
-### 📊 Estatísticas
+### 🏆 Conquistas e Atividade
 
 <div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cleitonmzl&show_icons=true&theme=dark&locale=pt-br" height="150" alt="Stats" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleitonmzl&layout=compact&theme=dark&locale=pt-br&langs_count=8" height="150" alt="Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Cleitonmzl&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="Troféus" />
+</div>
+
+<br/>
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cleitonmzl&theme=dark&locale=pt_br&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cleitonmzl&theme=dark&locale=pt_br" height="150" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleitonmzl&layout=compact&theme=dark&locale=pt-br&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" height="160" alt="Top Langs" />
 </div>
