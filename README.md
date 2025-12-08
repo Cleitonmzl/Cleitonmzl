@@ -26,18 +26,21 @@ Me chamo Cleiton Mizael, tenho 19 anos e sou natural do Rio Grande do Norte. Atu
 
 ---
 
-### 🏆 Conquistas e Atividade
+### 🏆 Conquistas
 
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Cleitonmzl&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="Troféus" />
 </div>
 
-<br/>
+---
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cleitonmzl&theme=dark&locale=pt_br&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
+### 📊 Resumo do Perfil
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleitonmzl&layout=compact&theme=dark&locale=pt-br&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" height="160" alt="Top Langs" />
-</div>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cleitonmzl&theme=2077" alt="Perfil Detalhado" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cleitonmzl&theme=2077" alt="Linguagens" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cleitonmzl&theme=2077" alt="Commits por Linguagem" />
+</p>
